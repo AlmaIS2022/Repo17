@@ -1,0 +1,52 @@
+body {
+    height:90%;
+    width:90%;
+    background:url("../images/login-bg.jpg");
+}
+
+ .logo img {
+float:left;
+
+top:100px;
+left:80px;
+    height:100px;
+    width:180px;
+}
+
+.showcase-text {
+    position:absolute;
+    height: 400px;
+    width: 600px;
+    top: 300px;
+    right:100px;
+    color:white; 
+      
+
+}
+.secondary-btn {
+position:absolute;
+
+    height: 300px;
+    width: 600px;
+    top: 400px;
+    right:0px;
+    color:white;  
+}
+
+#footer { 
+    position:float;
+
+    width: 600px;
+    bottom: 100px;
+    right:200px;
+    color:white;  
+}
+
+
+  
+   
+
+
+
+
+    
